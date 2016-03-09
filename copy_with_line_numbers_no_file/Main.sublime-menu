@@ -3,7 +3,7 @@
         "id": "edit",
         "children":
         [
-                    { "command": "copy_with_line_numbers_no_file", "caption": "Copy With Line Numbers(No File Info)" }
+                    { "command": "copy_with_line_numbers_no_file", "caption": "Copy With Line Numbers NFI" }
         ]
     }
 ]
